@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1{
+
+	font-family: 'sega-logo-font-cufonfonts';
+	font-weight: 2000;
+	color: #bccac4;
+}  
